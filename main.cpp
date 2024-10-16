@@ -4,7 +4,7 @@ int main()
 {
 	printf("Hello World! \n");
 
-	printf("Pull Request \n");
+	printf("コンフリクトを直しました \n");
 
 	return 0;
 }
